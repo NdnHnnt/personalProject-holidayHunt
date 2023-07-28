@@ -1,0 +1,86 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-color: #F4F2DE;
+}
+
+nav {
+    background-color: #F4F2DE;
+    color: #7C9D96;
+    padding-left: 5%;
+}
+
+nav a {
+    color: #7C9D96;
+    padding-left: 5%;
+}
+
+h1 {
+    color: #7C9D96;
+}
+
+mark {
+    color: #F4F2DE;
+    background-color: #A1CCD1;
+}
+
+p {
+    color: #7C9D96;
+}
+
+label {
+    color: #7C9D96;
+    font-weight: bold;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border-color: #E9B384;
+    border-style: solid;
+    border-width: 0;
+    color: #7C9D96;
+}
+
+.table>:not(caption)>*>* {
+    color: #7C9D96;
+    padding: 1rem 1rem;
+    color: var(--bs-table-color-state,var(--bs-table-color-type,var(--bs-table-color)));
+    background-color: transparent;
+    border-bottom-width: var(--bs-border-width);
+    box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state,var(--bs-table-bg-type,var(--bs-table-accent-bg)));
+}
+
+.form-select{
+    color: #F4F2DE;
+    background-color: #E9B384;
+    font-weight: bold;
+}
+
+.img-fluid {
+    border-radius: 20px;
+}
+  
+
+.navbar-brand {
+    color: #7C9D96;
+}
+
+.nav-link {
+    color: #7C9D96;
+}
+
+span .navbar-toggler-icon{
+   color: #7C9D96
+}
+
+.query-builder .rules-group-container {
+    padding: 10px 10px 6px;
+    border: 0px solid #DCC896;
+    background: rgba(250,240,210,.5);
+}
+
+.btn-primary{
+    background-color: #7C9D96;
+    border-color: #7C9D96;
+}
