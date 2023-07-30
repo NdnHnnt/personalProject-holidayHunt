@@ -45,6 +45,12 @@ This will launch the front-end and make it accessible at http://localhost:3000 i
 ## Usage
 Once the application is running, you can use the interface to explore worldwide holidays and filter them using the built-in JQuery filter tool.
 
+## Mockup
+The display of the website is as follows:
+
+![Mockup](mockup.png)
+
+
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Your contributions are welcome!
 
